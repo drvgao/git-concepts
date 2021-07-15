@@ -1,2 +1,4 @@
 # The first command to initialize the project locally.
 git init
+
+git clone repo-link
